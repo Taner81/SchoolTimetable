@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+
+    <!--    Compiled by T.Clay - Queen Elizabeth's High School 05/2016
+            Thanks to sources - simple-search.js, tablesorter.js, jQuery.Print.js.
+            No credit taken for their creator's excellent work.
+    
+            This HTML is designed to be inseted into another webpage such as Nick Brown's Home Access Plus+ however, it will
+            work stand alone. Please consider security if you are adding this to your schools website. Do you want everyone 
+            knowing each individual staff member and students whereabouts outside of school? Again, we secure ourself by putting
+            this into HAP+ which required Active Directory login.
+
+            Please read the attached ReadMe.doc for instructions on creating the xml files. -->
+
+    <head>
+
+        <!-- stylesheet -->
+        <link rel="stylesheet" href="style/timetable.css">
+
+        <!-- load jQuery -->
+        <script type="text/javascript" src="js/jquery-1.12.3.min.js"></script>
+
+        <!-- Script for week 1, week 2 rotating timetables. This can be removed if your school doesnt use 2 week timetables. -->
+        <script type="text/javascript" src="js/week.js"></script>
+
+        <!-- Tablesorter for organising table data -->
+        <script type="text/javascript" src="js/tablesorter.js"></script>
+
+        <!-- jQuery Print for individual element/timetable printing -->
+        <script type="text/javascript" src="js/jQuery.print.js"></script>
+
+        <!-- Datafiles for search.js script - stuData= student xml file location. staData= staff xml datafile location. -->
+        <script id="data" type="text/javascript" src="js/search.js" stuData="data/stutimetable.xml" staData="data/statimetable.xml"></script>
+
+        <!-- JS to stop page resetting when return key is pressed on keyboard before criteria selected. #Childproofing -->
+        <script type='text/javascript'>
+function stopRKey(evt) 
+{
+   var evt=(evt) ? evt : ((event) ? event : null);
+   var node=(evt.target)?evt.target:((evt.srcElement)?evt.srcElement:null);
+   if ((evt.keyCode == 13) && (node.type=="text")) {return false;}
+}
+
+document.onkeypress = stopRKey;
+        </script>
+    </head>
+    <body>
+
+        <!-- Area for entering information in bold -->
+        <div id="TTInfo">
+            <p>Timetables as of the 'date of xml upload' - this is manually entered into the html file and can be used for other information.</br></p>
+        </div>
+
+        <!-- Brief how to and use of current week. The "ins id=week" is populated by the week.js. Open the JS file for more info -->
+        <div id="TTHow">
+            <p>1. Type in your search phrase</br>2. Select a criteria</br>3. Click Search</p><p>The current week: <ins id="week"></ins></p>
+        </div>
+
+        <!-- The user input - the crux of the operation -->
+        <div id="controller">
+            <!-- Simple input text area for search term (term meaning "word phrase" rather than academic term) -->
+            <label>Search : 
+                <input type="text" id="term" />
+            </label>
+
+            <!-- Select criteria -->
+            <label>
+                <select name="category" id="category">
+                <option value="none">Please select a criteria</option>
+                <option value="StaffN">Staff Name</option>
+                <option value="StaffI">Staff Initials</option>
+                <option value="StudentN">Student Name</option>
+                <option value="StudentF">Student Form</option>
+                </select>
+            </label>
+
+            <!-- The big search button -->
+            <button name="Search" type="button" id="searchButton">Search</button>
+        </div>
+
+        <!-- Display the results from search.js -->
+        <div id="result">&nbsp;</div>
+    </body>
+</html>
