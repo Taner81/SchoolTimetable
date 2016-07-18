@@ -1,0 +1,4 @@
+Script began running at 06/09/2016 09:04:00
+CSV file fully read at 06/09/2016 09:19:26; 76514 records discovered.
+Data filtered for unique values at 06/09/2016 09:20:05; 1225 unique users discovered.
+Finished running script at 06/09/2016 10:08:45

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><report source="ExportTimetable">
+<SingleTimeTablesReport>
+<Title>Teacher Timetable</Title>
+<TimeTables>
+<TimetableData>
+<Comment />
+<ResourceName>Mrs Example</ResourceName><Initials>ABC</Initials>
+<TableRow>
+<![CDATA[ <table class="time">
+<tr>
+<th>Period</th>
+<th>1Mon</th>
+<th>1Tue</th>
+<th>1Wed</th>
+<th>1Thu</th>
+<th>1Fri</th>
+<th>2Mon</th>
+<th>2Tue</th>
+<th>2Wed</th>
+<th>2Thu</th>
+<th>2Fri</th>
+</tr>
+<tr><td>AM</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P1</td>
+<td>_<br> </td>
+<td>Sc<br>8X/Sc4 1</td>
+<td>Sc<br>7Y/Sc3 1</td>
+<td>Ph<br>12L/Ph1 11</td>
+<td>Ph<br>10L/Ph1 5</td>
+<td>Sc<br>7Y/Sc3 1</td>
+<td>Sc<br>8Y/Sc4 1</td>
+<td>Sc<br>7X/Sc3 1</td>
+<td>Sc<br>J9Y/Sc3 1</td>
+<td>_<br> </td>
+</tr>
+<tr><td>P2</td>
+<td>_<br> </td>
+<td>Sc<br>8Y/Sc4 1</td>
+<td>_<br> </td>
+<td>Ph<br>12L/Ph1 11</td>
+<td>Sc<br>10Y/Sc3 1</td>
+<td>Sc<br>7Y/Sc3 1</td>
+<td>Sc<br>8X/Sc4 1</td>
+<td>Ph<br>10L/Ph1 15</td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P3</td>
+<td>Sc<br>10Y/Sc3 1</td>
+<td>_<br> </td>
+<td>Ph<br>10L/Ph1 5</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Sc<br>7X/Sc3 1</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Ph<br>10L/Ph1 12</td>
+<td>Sc<br>8Y/Sc4 1</td>
+</tr>
+<tr><td>P4</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Ph<br>10L/Ph1 5</td>
+<td>_<br> </td>
+<td>Sc<br>7Y/Sc3 1</td>
+<td>Ph<br>10L/Ph1 5</td>
+<td>_<br> </td>
+<td>Sc<br>10Y/Sc3 1</td>
+<td>Sc<br>10X/Sc3 1</td>
+<td>Sc<br>8X/Sc4 1</td>
+</tr>
+<tr><td>PM</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P5</td>
+<td>_<br> </td>
+<td>Sc<br>7X/Sc3 1</td>
+<td>_<br> </td>
+<td>Sc<br>7Y/Sc3 1</td>
+<td>Sc<br>8Y/Sc4 1</td>
+<td>Ph<br>12L/Ph1 11</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Ph<br>10L/Ph1 4</td>
+</tr>
+<tr><td>P6</td>
+<td>Sc<br>J9X/Sc3 1</td>
+<td>Sc<br>10X/Sc3 1</td>
+<td>_<br> </td>
+<td>Sc<br>J9Y/Sc3 1</td>
+<td>Sc<br>8Y/Sc4 1</td>
+<td>Sc<br>10Y/Sc3 1</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Sc<br>J9X/Sc3 1</td>
+</tr>
+</table>]]>
+</TableRow>
+</TimetableData>
+<TimetableData>
+<Comment />
+<ResourceName>Mr Instance</ResourceName><Initials>DEF</Initials>
+<TableRow>
+<![CDATA[ <table class="time">
+<tr>
+<th>Period</th>
+<th>1Mon</th>
+<th>1Tue</th>
+<th>1Wed</th>
+<th>1Thu</th>
+<th>1Fri</th>
+<th>2Mon</th>
+<th>2Tue</th>
+<th>2Wed</th>
+<th>2Thu</th>
+<th>2Fri</th>
+</tr>
+<tr><td>AM</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+</tr>
+<tr><td>P1</td>
+<td>_<br> </td>
+<td>Gg<br>10K/Gg4 29</td>
+<td>_<br> </td>
+<td>Gg<br>9J/Gg5 29</td>
+<td>_<br> </td>
+<td>Gg<br>9J/Gg2 29</td>
+<td>Gg<br>10K/Gg1 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P2</td>
+<td>_<br> </td>
+<td>Gg<br>12L/Gg1 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>12L/Gg1 29</td>
+<td>Gg<br>9J/Gg0 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P3</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>9J/Gg3 29</td>
+<td>_<br> </td>
+<td>Gg<br>9J/Gg1 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P4</td>
+<td>_<br> </td>
+<td>Gg<br>10K/Gg3 29</td>
+<td>Gg<br>9J/Gg6 29</td>
+<td>_<br> </td>
+<td>Gg<br>12L/Gg2 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>10K/Gg2 29</td>
+<td>_<br> </td>
+<td>Gg<br>9J/Gg1 29</td>
+</tr>
+<tr><td>PM</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+<td>Tu<br>12Y/Tu 21</td>
+</tr>
+<tr><td>P5</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>10K/Gg2 29</td>
+<td>Gg<br>9J/Gg4 29</td>
+<td>Gg<br>12L/Gg3 30</td>
+<td>Gg<br>12L/Gg2 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>12L/Gg0 29</td>
+<td>_<br> </td>
+</tr>
+<tr><td>P6</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>10K/Gg1 29</td>
+<td>Gg<br>10K/Gg0 29</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Gg<br>10K/Gg3 29</td>
+</tr>
+</table>]]>
+</TableRow>
+</TimetableData>
+</TimeTables>
+</SingleTimeTablesReport>
+</report>

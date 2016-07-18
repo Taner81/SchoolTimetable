@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"><report source="ExportTimetable">
+<SingleTimeTablesReport>
+<Title>Student Timetable</Title>
+<TimeTables>
+<TimetableData>
+<Comment />
+<ResourceName>First Example</ResourceName><Reg>12X</Reg><id>0</id>
+<email>staffABC@email.our.sch.uk;staffBCD@email.our.sch.uk;staffDEF@email.our.sch.uk;staffGHI@email.our.sch.uk;staffMNO@email.our.sch.uk;staffPQR@email.our.sch.uk;staffSTU@email.our.sch.uk;staffVWX@email.our.sch.uk;staffYZA@email.our.sch.uk;</email>
+<TableRow>
+<![CDATA[ <table class="time" border="1" cellpadding="1" cellspacing="0">
+<tr>
+<th>Period</th>
+<th>1Mon</th>
+<th>1Tue</th>
+<th>1Wed</th>
+<th>1Thu</th>
+<th>1Fri</th>
+<th>2Mon</th>
+<th>2Tue</th>
+<th>2Wed</th>
+<th>2Thu</th>
+<th>2Fri</th>
+</tr>
+<tr><td>AM</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+</tr>
+<tr><td>P1</td>
+<td>Ma<br>VWX 12</td>
+<td>RS<br>PQR 10</td>
+<td>So<br>PQR 2</td>
+<td>RS<br>PQR 5</td>
+<td>So<br>PQR 5</td>
+<td>Ma<br>VWX 12</td>
+<td>RS<br>PQR 10</td>
+<td>Ch<br>DEF 2</td>
+<td>Ch<br>DEF 2</td>
+<td>So<br>STU 2</td>
+</tr>
+<tr><td>P2</td>
+<td>St<br>GHI 13</td>
+<td>RS<br>MNO 10</td>
+<td>So<br>STU 2</td>
+<td>RS<br>PQR 5</td>
+<td>So<br>STU 2</td>
+<td>_<br> </td>
+<td>RS<br>MNO 10</td>
+<td>Ch<br>DEF 2</td>
+<td>Ch<br>DEF 2</td>
+<td>So<br>STU 2</td>
+</tr>
+<tr><td>P3</td>
+<td>St<br>GHI 13</td>
+<td>So<br>STU 2</td>
+<td>Ch<br>ABC 3</td>
+<td>Ma<br>VWX 12</td>
+<td>Ma<br>VWX 1</td>
+<td>Ch<br>ABC 3</td>
+<td>St<br>? 13</td>
+<td>So<br>PQR 5</td>
+<td>Ma<br>YZA 2</td>
+<td>_<br> </td>
+</tr>
+<tr><td>P4</td>
+<td>Ch<br>ABC 3</td>
+<td>So<br>STU 2</td>
+<td>Ch<br>ABC 3</td>
+<td>Ma<br>YZA 2</td>
+<td>_<br> </td>
+<td>Ch<br>ABC 3</td>
+<td>So<br>PQR 5</td>
+<td>So<br>PQR 5</td>
+<td>Ma<br>YZA 2</td>
+<td>Ch<br>ABC 3</td>
+</tr>
+<tr><td>PM</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+<td>Tu<br>BCD 14</td>
+</tr>
+<tr><td>P5</td>
+<td>_<br> </td>
+<td>Ma<br>YZA 1</td>
+<td>We<br>? 13</td>
+<td>Ch<br>DEF 2</td>
+<td>RS<br>MNO 10</td>
+<td>RS<br>PQR 5</td>
+<td>Ma<br>YZA 2</td>
+<td>We<br>? 13</td>
+<td>RS<br>PQR 5</td>
+<td>RS<br>MNO 10</td>
+</tr>
+<tr><td>P6</td>
+<td>So<br>PQR 5</td>
+<td>Ma<br>YZA 2</td>
+<td>_<br> </td>
+<td>Ch<br>DEF 2</td>
+<td>St<br>GHI 13</td>
+<td>_<br> </td>
+<td>Ma<br>YZA 2</td>
+<td>_<br> </td>
+<td>RS<br>MNO 10</td>
+<td>RS<br>PQR 5</td>
+</tr>
+</table>]]>
+</TableRow>
+</TimetableData>
+<TimetableData>
+<Comment />
+<ResourceName>Second Example</ResourceName><Reg>12X</Reg><id>1</id>
+<email>staffAAA@email.our.sch.uk;staffEFG@email.our.sch.uk;staffGHI@email.our.sch.uk;staffHIJ@email.our.sch.uk;staffKLM@email.our.sch.uk;staffNOP@email.our.sch.uk;staffQRS@email.our.sch.uk;staffTUV@email.our.sch.uk;staffXYZ@email.our.sch.uk;staffYZA@email.our.sch.uk;</email>
+<TableRow>
+<![CDATA[ <table class="time" border="1" cellpadding="1" cellspacing="0">
+<tr>
+<th>Period</th>
+<th>1Mon</th>
+<th>1Tue</th>
+<th>1Wed</th>
+<th>1Thu</th>
+<th>1Fri</th>
+<th>2Mon</th>
+<th>2Tue</th>
+<th>2Wed</th>
+<th>2Thu</th>
+<th>2Fri</th>
+</tr>
+<tr><td>AM</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+</tr>
+<tr><td>P1</td>
+<td>_<br> </td>
+<td>Hi<br>QRS 13</td>
+<td>St<br>GHI 13</td>
+<td>Hi<br>QRS 5</td>
+<td>Ma<br>XYZ 7</td>
+<td>_<br> </td>
+<td>Hi<br>TUV 6</td>
+<td>Cs<br>KLM 22</td>
+<td>Cs<br>KLM 22</td>
+<td>_<br> </td>
+</tr>
+<tr><td>P2</td>
+<td>_<br> </td>
+<td>Hi<br>TUV 6</td>
+<td>Ma<br>YZA 12</td>
+<td>Hi<br>TUV 6</td>
+<td>Ma<br>XYZ 7</td>
+<td>_<br> </td>
+<td>Hi<br>QRS 5</td>
+<td>Cs<br>EFG 20</td>
+<td>St<br>GHI 13</td>
+<td>Ma<br>XYZ 12</td>
+</tr>
+<tr><td>P3</td>
+<td>Cs<br>EFG 20</td>
+<td>Ma<br>YZA 12</td>
+<td>Cs<br>HIJ 21</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Cs<br>KLM 22</td>
+<td>Ma<br>YZA 2</td>
+<td>Ma<br>YZA 12</td>
+<td>_<br> </td>
+<td>_<br> </td>
+</tr>
+<tr><td>P4</td>
+<td>Cs<br>NOP 23</td>
+<td>Ma<br>YZA 12</td>
+<td>Cs<br>KLM 22</td>
+<td>_<br> </td>
+<td>Hi<br>QRS 5</td>
+<td>Cs<br>NOP 23</td>
+<td>Ma<br>YZA 2</td>
+<td>Ma<br>YZA 12</td>
+<td>_<br> </td>
+<td>Cs<br>KLM 22</td>
+</tr>
+<tr><td>PM</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+<td>Tu<br>AAA 19</td>
+</tr>
+<tr><td>P5</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>We<br>? 13</td>
+<td>_<br> </td>
+<td>Hi<br>TUV 6</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>We<br>? 13</td>
+<td>Hi<br>QRS 5</td>
+<td>Hi<br>QRS 5</td>
+</tr>
+<tr><td>P6</td>
+<td>Ma<br>XYZ 7</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Cs<br>KLM 22</td>
+<td>St<br>? 13</td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>_<br> </td>
+<td>Hi<br>TUV 6</td>
+<td>Hi<br>TUV 6</td>
+</tr>
+</table>]]>
+</TableRow>
+</TimetableData>
+</TimeTables>
+</SingleTimeTablesReport>
+</report>
